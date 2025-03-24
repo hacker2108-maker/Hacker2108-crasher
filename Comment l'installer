@@ -6,4 +6,6 @@ pip install tls_client
 pkg install python
 pip install colorama
 pip3 install colorama
-git clone 
+git clone https://github.com/hacker2108-maker/Hacker2108-crasher.git
+cd Hacker2108-crasher
+python Hacker2108-crasher.py
