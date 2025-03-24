@@ -1,0 +1,9 @@
+pkg update
+pkg upgrade
+pip uninstall tls_client
+pip cache purge
+pip install tls_client
+pkg install python
+pip install colorama
+pip3 install colorama
+git clone 
